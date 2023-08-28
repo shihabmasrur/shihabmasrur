@@ -2,8 +2,13 @@
 
 
 
-- 👀 I’m interested in web developement and competetive programming 
-- 🌱 and I’m currently learning that
+- 👀 I am an CSE undergrad at United International University.
+- 👀 I’m interested in many things.
+- 🌱 Love tech and like to learn about it.
+- 🌱 Football
+- 🌱 Video Editing
+- 🌱 Music... A lot of music.
+- 🌱 Sometimes a bit of random graphic designing. 
 
 
 
