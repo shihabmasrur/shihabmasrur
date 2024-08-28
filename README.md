@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **shihabsahil@gmail.com**
 
-- ⚡ Fun fact **"Fool me once Strike One, fool me twice strike three."**
+- ⚡ **"Fool me once Strike One, fool me twice strike three."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
