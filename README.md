@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **improving my craft and FidoRide**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **PHP and MySQL**
 
 - 👯 I’m looking to collaborate on **FidoRide**
 
